@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 - [x] User can sign up to create a new account. (1pt)
 - [x] User can log in. (1pt)
 - [x] User can take a photo, add a caption, and post it to the server. (3pt)
-- [ ] User can view the last 20 posts. (4pts)
+- [x] User can view the last 20 posts. (4pts)
 
 The following **bonus** features are implemented:
 
@@ -23,4 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![Simulator Screen Recording - iPhone 11 Pro Max - 2022-10-08 at 06 59 08](https://user-images.githubusercontent.com/97072541/194704178-2b116632-b2da-4475-8219-ef99adf312fe.gif)
 
