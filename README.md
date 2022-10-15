@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
+![](https://github.com/sagarbrathod1/Parstagram/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%208%20Plus%20-%202022-10-15%20at%2003.12.49.gif)
 
 # Parstagram - Part I
 
